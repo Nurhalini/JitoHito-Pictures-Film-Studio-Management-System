@@ -1,0 +1,20 @@
+Titanic,James Cameron,James Cameron,JitoHito Pictures,English,Romance,7.9,200.0,2218.0,200.0,2018.0,Leonardo DiCaprio,Zendaya,Scarlett Johansson
+The Dark Knight,Christopher Nolan,Christopher Nolan,Warner Bros.,English,Action,9.0,185.0,1004.6,185.0,819.6,Christian Bale,Robert Downey Jr.,Jennifer Lawrence
+Avengers: Endgame,Anthony Russo,Kevin Feige,Marvel Studios,English,Action,8.4,356.0,2797.5,356.0,2441.5,Scarlett Johansson,Chris Hemsworth,Will Smith
+Inception,Christopher Nolan,Christopher Nolan,JitoHito Pictures,English,Sci-Fi,8.8,160.0,837.5,160.0,677.5,Leonardo DiCaprio,Margot Robbie,Tom Cruise
+Jurassic Park,Steven Spielberg,Kathleen Kennedy,Amblin Entertainment,English,Adventure,8.1,63.0,1057.6,63.0,994.6,Zendaya,Ryan Reynolds,Angelina Jolie
+Avatar,James Cameron,James Cameron,20th Century Fox,English,Sci-Fi,7.9,237.0,2921.0,237.0,2684.0,Dwayne Johnson,Gal Gadot,Brad Pitt
+The Godfather,Francis Ford Coppola,Albert S. Ruddy,Paramount Pictures,English,Crime,9.2,6.0,134.9,6.0,128.9,Meryl Streep,Brad Pitt,Tom Cruise
+Forrest Gump,Robert Zemeckis,Steve Tisch,JitoHito Pictures,English,Drama,8.8,55.0,678.2,55.0,623.2,Viola Davis,Will Smith,Zendaya
+Black Panther,Ryan Coogler,Kevin Feige,Marvel Studios,English,Action,7.3,200.0,1347.6,200.0,1147.6,Chadwick Boseman,Zendaya,Gal Gadot
+Beauty and the Beast,Bill Condon,David Hoberman,Walt Disney Pictures,English,Romance,7.1,160.0,1263.5,160.0,1103.5,Emma Watson,Chris Hemsworth,Scarlett Johansson
+The Avengers,Joss Whedon,Kevin Feige,Marvel Studios,English,Action,8.0,220.0,1519.6,220.0,1299.6,Robert Downey Jr.,Scarlett Johansson,Will Smith
+Spider-Man: No Way Home,Jon Watts,Kevin Feige,Marvel Studios,English,Action,8.3,200.0,1952.5,200.0,1752.5,Zendaya,Andrew Garfield,Ryan Reynolds
+Deadpool,Tim Miller,Simon Kinberg,Paramount Pictures,English,Comedy,8.0,58.0,782.6,58.0,724.6,Ryan Reynolds,Scarlett Johansson,Timothée Chalamet
+The Hunger Games,Gary Ross,Nina Jacobson,Lionsgate,English,Adventure,7.2,78.0,694.3,78.0,616.3,Jennifer Lawrence,Gal Gadot,Henry Cavill
+Aquaman,James Wan,Peter Safran,DC Films,English,Action,7.0,160.0,1148.5,160.0,988.5,Jason Momoa,Zendaya,Chris Hemsworth
+Interstellar,Christopher Nolan,Christopher Nolan,JitoHito Pictures,English,Sci-Fi,8.6,165.0,773.8,165.0,608.8,Leonardo DiCaprio,Florence Pugh,Benedict Cumberbatch
+Frozen,Chris Buck,Peter Del Vecho,Walt Disney Studios,English,Animation,7.4,150.0,1276.0,150.0,1126.0,Scarlett Johansson,Zendaya,Florence Pugh
+Joker,Todd Phillips,Bradley Cooper,20th Century Fox,English,Drama,8.4,70.0,1074.3,70.0,1004.3,Christian Bale,Zendaya,Angelina Jolie
+The Matrix,Lana Wachowski,Lilly Wachowski,Warner Bros.,English,Sci-Fi,8.7,63.0,467.2,63.0,404.2,Keanu Reeves,Zendaya,Tom Cruise
+The Lion King,Jon Favreau,Jon Favreau,Walt Disney Studios,English,Animation,8.5,45.0,1063.5,45.0,1018.5,Meryl Streep,Gal Gadot,Timothée Chalamet

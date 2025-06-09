@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Management
+comment1.params=
+comment1.target=Management()
+comment2.params=id\ pass
+comment2.target=Management(java.lang.String,\ java.lang.String)
+comment3.params=id\ pass
+comment3.target=boolean\ managementVerify(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=boolean\ accountLogin()
+comment5.params=
+comment5.target=java.lang.String\ managementMenu_1()
+comment6.params=
+comment6.target=java.lang.String\ managementMenu_2()
+numComments=7
